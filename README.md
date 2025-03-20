@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome to my GitHub 👋  
 
-<!--
-**oxjvstyna/oxjvstyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year Computer Science student at AGH.  
 
-Here are some ideas to get you started:
+### 📚 I'm currently learning:  
+- C++  
+- Erlang/Elixir  
+- React  
+- Python  
+- Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact me:** jorlowska2003@gmail.com  
+
+---
+
+## 🚀 My Projects and Repositories  
+
+- **[Darwin Project](https://github.com/oxjvstyna/Darwin-Simulation)** – A simulation of life and animal evolution, created in Java and JavaFX as part of the Object-Oriented Programming course.  
+- **[University Project](https://github.com/oxjvstyna/intro_to_databases_project)** – A university project based on relational databases developed as part of the Database Systems course.  
+- **[Online Store](https://github.com/oxjvstyna/introduction_to_web_applications)** – An e-commerce website built using React and JavaScript.  
